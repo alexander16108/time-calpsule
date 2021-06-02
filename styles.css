@@ -1,7 +1,7 @@
-/*general*/
+/* general */
 
 header,
-.list-frameworks, 
+.list-frameworks,
 .list-skills,
 .list-languages,
 .icon {
@@ -14,7 +14,7 @@ html {
   text-align: center;
 }
 
-/*nav*/
+/* nav */
 
 nav {
   display: flex;
@@ -40,10 +40,10 @@ nav {
   font-size: large;
 }
 
-/*header*/
+/* header */
 
 
- h1 {
+h1 {
   color: #7d73fc;
   font-weight: 1000;
   font-size: 35px;
@@ -52,14 +52,14 @@ nav {
   padding-bottom: 0%;
 }
 
- .head-text {
+.head-text {
   color: #edecff;
   font-size: 30px;
   font-weight: 400;
   margin: 0%;
 }
 
-/*first-section*/
+/* first-section */
 
 .intro {
   padding: 25px;
@@ -73,7 +73,7 @@ section p {
   padding-top: 15px;
 }
 
-/*second-section*/
+/* second-section */
 
 .border {
   color: #646369;
@@ -86,7 +86,7 @@ section p {
   padding: 12px;
 }
 
- .items {
+.items {
   display: flex;
   flex-direction: row;
   flex-wrap: wrap;
@@ -96,19 +96,19 @@ section p {
   color: #f5f5ff;
   margin: 0%;
   padding: 0%;
-  }
+}
 
-  li {
-    list-style-type: none;
-  }
+li {
+  list-style-type: none;
+}
 
-/*icons*/
+/* icons */
 
 .icon {
   box-sizing: border-box;
 }
 
-.icon ul{
+.icon ul {
   padding: 0%;
   display: flex;
   margin: 0%;
