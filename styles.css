@@ -19,6 +19,7 @@ html {
 nav {
   display: flex;
 }
+
 .my-logo a {
   color: #ffff;
   font-size: 18px;
@@ -49,7 +50,7 @@ nav {
   top: 0%;
   left: 0%;
   padding-bottom: 0%;
- }
+}
 
  .head-text {
   color: #edecff;
@@ -59,9 +60,11 @@ nav {
 }
 
 /*first-section*/
+
 .intro {
   padding: 25px;
 }
+
 section p {
   color:#c8c8d4; 
   font-size: 16px;
@@ -71,10 +74,12 @@ section p {
 }
 
 /*second-section*/
+
 .border {
   color: #646369;
   width: 90%;
 }
+
 .mini-tag {
   color: #9490ff;
   font-size: 10px;
@@ -98,9 +103,11 @@ section p {
   }
 
 /*icons*/
+
 .icon {
   box-sizing: border-box;
 }
+
 .icon ul{
   padding: 0%;
   display: flex;
