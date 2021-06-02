@@ -1,25 +1,27 @@
-/*general*/
+/* general */
 header,
-.list-frameworks, 
+.list-frameworks,
 .list-skills,
 .list-languages,
 .icon {
-  padding: 20px 0px 20px 0px;
+  padding: 20px 0 20px 0;
 }
 
 html {
   background: #191765;
   font-family: 'roboto', sans-serif;
-text-align: center;
+  text-align: center;
 }
-/*nav*/
+
+/* nav */
+
 nav {
   display: flex;
 }
 .my-logo a {
-  color: #FFFFFF;
- font-size: 18px;
- text-decoration: none;
+  color: #ffffff;
+  font-size: 18px;
+  text-decoration: none;
 }
 .hamburger-menu {
   justify-content: right;
@@ -30,11 +32,11 @@ nav {
 
 }
 
-/*header*/
+/* header */
 
 
  h1 {
-   color: #7D73FC;
+  color: #7d73fc;
   font-weight: 1000;
   font-size: 35px;
   top: 0%;
@@ -43,25 +45,25 @@ nav {
  }
 
  .head-text {
-   color: #EDECFF;
+   color: #edecff;
    font-size: 30px;
    font-weight: 400;
    margin: 0%;
 }
 
-/*first-section*/
+/* first-section */
 .intro {
-padding: 25px;
+  padding: 25px;
 }
 section p {
- color:#C8C8D4; 
+ color:#c8c8d4; 
  font-size: 16px;
  font-weight: 400;
  line-height: 24px;
  padding-top: 15px;
 }
 
-/*second-section*/
+/* second-section */
 .border {
   color: #646369;
   width: 90%;
@@ -69,7 +71,7 @@ section p {
 .mini-tag {
   color: #9490FF;
   font-size: 10px;
- padding: 10px;
+  padding: 10px;
 }
 
  .items {
@@ -79,15 +81,15 @@ section p {
   text-align: left;
   font-size: 14px;
   line-height: 28px;
-  color: #F5F5FF;
+  color: #f5f5ff;
   margin: 0%;
   padding: 0%;
   }
   li {
-    list-style-type: none;
+  list-style-type: none;
   }
 
-/*icons*/
+/* icons */
 img {
   padding: 15px;
 }
