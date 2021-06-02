@@ -58,11 +58,11 @@ h1 {
 }
 
 section p {
- color:#c8c8d4; 
- font-size: 16px;
- font-weight: 400;
- line-height: 24px;
- padding-top: 15px;
+  color: #c8c8d4;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 24px;
+  padding-top: 15px;
 }
 
 /* second-section */
@@ -73,7 +73,7 @@ section p {
 }
 
 .mini-tag {
-  color: #9490FF;
+  color: #9490ff;
   font-size: 10px;
   padding: 10px;
 }
