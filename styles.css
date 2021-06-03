@@ -1,0 +1,119 @@
+/* general */
+
+header,
+.list-frameworks,
+.list-skills,
+.list-languages,
+.icon {
+  padding: 20px 0 20px 0;
+}
+
+html {
+  background: #191765;
+  font-family: 'roboto', sans-serif;
+  text-align: center;
+}
+
+/* nav */
+
+nav {
+  display: flex;
+}
+
+.my-logo a {
+  color: #ffff;
+  font-size: 18px;
+  text-decoration: none;
+}
+
+.hamburger-menu a {
+  text-decoration: none;
+  color: #acb7c3;
+}
+
+.hamburger-menu {
+  display: flex;
+  margin-left: auto;
+  flex-direction: row;
+  justify-content: flex-end;
+  align-self: center;
+  font-size: large;
+}
+
+/* header */
+
+h1 {
+  color: #7d73fc;
+  font-weight: 1000;
+  font-size: 35px;
+  top: 0%;
+  left: 0%;
+  padding-bottom: 0%;
+}
+
+.head-text {
+  color: #edecff;
+  font-size: 30px;
+  font-weight: 400;
+  margin: 0%;
+}
+
+/* first-section */
+
+.intro {
+  padding: 25px;
+}
+
+section p {
+  color: #c8c8d4;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 24px;
+  padding-top: 15px;
+}
+
+/* second-section */
+
+.border {
+  color: #646369;
+  width: 90%;
+}
+
+.mini-tag {
+  color: #9490ff;
+  font-size: 10px;
+  padding: 12px;
+}
+
+.items {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  text-align: left;
+  font-size: 14px;
+  line-height: 28px;
+  color: #f5f5ff;
+  margin: 0%;
+  padding: 0%;
+}
+
+li {
+  list-style-type: none;
+}
+
+/* icons */
+
+.icon {
+  box-sizing: border-box;
+}
+
+.icon ul {
+  padding: 0%;
+  display: flex;
+  margin: 0%;
+  justify-content: center;
+}
+
+img {
+  padding: 15px;
+}
